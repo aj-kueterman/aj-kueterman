@@ -39,3 +39,5 @@ I think this hits the sweet spot of performance / cost. 32 GB is a memory minimu
 Memory pressure graph on current 15" MBP 16GB memory.
 
 <img width="852" alt="Screen Shot 2021-10-29 at 3 30 48 PM" src="https://user-images.githubusercontent.com/88003213/139491817-2aadfef7-208a-48c4-b2fa-691a7804e038.png">
+<img width="852" alt="Screen Shot 2021-10-29 at 3 34 17 PM" src="https://user-images.githubusercontent.com/88003213/139492206-8a4c42dc-e103-4fb3-bf92-9e84748c49b5.png">
+
