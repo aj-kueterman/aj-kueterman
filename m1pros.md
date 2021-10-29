@@ -34,3 +34,8 @@ I think this hits the sweet spot of performance / cost. 32 GB is a memory minimu
 * 32GB unified memory
 * 1TB SSD storage
 * **$3,099.00**
+
+## Anecdotal Evidence
+Memory pressure graph on current 15" MBP 16GB memory.
+
+<img width="852" alt="Screen Shot 2021-10-29 at 3 30 48 PM" src="https://user-images.githubusercontent.com/88003213/139491817-2aadfef7-208a-48c4-b2fa-691a7804e038.png">
