@@ -13,6 +13,9 @@ A collection of links, mostly Kroger-specific.
 
 * [Android Stats](http://10.139.116.122:3000/d/QiPlst77k/kroger-android?orgId=1)
 * [Monitoring in Kibana](https://echo-digital.kroger.com/kibana/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-3d,to:now))&_a=(columns:!(responseCode),filters:!(),index:proxy-banner-prod,interval:auto,query:(language:lucene,query:'destinationPath:%20*mobilerewards*%20%20AND%20%20responseCode:%20%5B499%20TO%20600%5D'),sort:!())) (arbitrary query)
+* [Membership rewards MSL errors](https://echo-digital.kroger.com/kibana/goto/6e376584b987583869655b85576e33c9)
+* [Rewards Service Dashboard](https://echo.kroger.com/kibana/goto/538fec58a587e5357c2488c777ed3214)
+* [Echo Correlation ID lookup](https://echo.kroger.com/corrid/#/)
 
 ## Samwise
 
