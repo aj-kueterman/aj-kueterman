@@ -2,7 +2,7 @@
 
 Android dev, currently on the Loyalty & Rewards ([Samwise](https://confluence.kroger.com/confluence/display/DRT/CX+Loyalty+Rewards+-+Samwise)) team working on Kroger Membership (Boost 🚀).
 
-* [Links](docs/links.md)
+* [Links](links.md)
 
 <!--
 **aj-kueterman/aj-kueterman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
