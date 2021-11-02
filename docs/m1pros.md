@@ -18,7 +18,7 @@ These configurations bump up GPU performance and add Memory, both which would ma
 * 1TB SSD storage
 * **$3,699.00**
 
-## Recommended
+## Balanced
 Gabriel Peal, a GDE and former Google engineer [recommends this 14" configuration](https://gpeal.medium.com/the-m1-pro-for-android-engineers-a144093aa1ec) and I included the respective 16" configuration as well.
 
 I think this hits the sweet spot of performance / cost. 32 GB is a memory minimum at this point for Android Dev, but should give enough headroom to fly for the next few years at least. The 10 core Pro CPU will make a difference over the 8 core Pro for Gradle builds, and the 16 core GPU over the 14 will do the same for Android Emulator performance.
