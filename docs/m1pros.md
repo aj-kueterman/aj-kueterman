@@ -36,7 +36,12 @@ I think this hits the sweet spot of performance / cost. 32 GB is a memory minimu
 * **$3,099.00**
 
 ## Anecdotal Evidence
-Memory pressure graph on current 15" MBP 16GB memory.
+Memory pressure graph on current 15" MBP 16GB memory. My observation is that Android Studio sucks up a ton of memory. If you want to run a build and multitask - join a Teams meeting/Zoom, open another IDE, use an emulator, etc. - then you eat through memory fast. I was seeing yellow/red on the [Memory Pressure graph](https://support.apple.com/guide/activity-monitor/check-if-your-mac-needs-more-ram-actmntr34865/10.14/mac/12.0) pretty consistently, meaning 16GB is already not enough.
+
+> In the Activity Monitor app  on your Mac, click Memory (or use the Touch Bar). The Memory Pressure graph lets you know if your computer is using memory efficiently.
+> * Green memory pressure: Your computer is using all of its RAM efficiently.
+> * Yellow memory pressure: Your computer might eventually need more RAM.
+> * Red memory pressure: Your computer needs more RAM.
 
 <img width="852" alt="Screen Shot 2021-10-29 at 3 30 48 PM" src="https://user-images.githubusercontent.com/88003213/139491817-2aadfef7-208a-48c4-b2fa-691a7804e038.png">
 <img width="852" alt="Screen Shot 2021-10-29 at 3 34 17 PM" src="https://user-images.githubusercontent.com/88003213/139492206-8a4c42dc-e103-4fb3-bf92-9e84748c49b5.png">
