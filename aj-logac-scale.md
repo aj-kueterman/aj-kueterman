@@ -4,8 +4,6 @@ I like the idea of the [LOGAF scale](https://blog.danlew.net/2020/04/15/the-loga
 
 Either way, here are my PR templates for my scale. They each link back here. I'm going to start using these in PR's to indicate my LOGAC on PR comments.
 
-⚠️
-
 ## Low
 
 A this level I usually just noticed something that had a slight code smell. I may spot things that are tangential to your change or just things I 'noticed' when reviewing. 
