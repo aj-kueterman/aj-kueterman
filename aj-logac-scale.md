@@ -1,6 +1,6 @@
 # AJ's LOGAC Scale
 
-I like the idea of the [LOGAF scale](https://blog.danlew.net/2020/04/15/the-logaf-scale/), where we can easily indicate if suggestions to PR review or other feedback is given in 'levels of give-a-f*ck'. But to avoid the somewhat crude (somewhat endearing) naming scheme, let's refer to this measure as the LOGAC ("low-gak") scale - "levels of give-a-care" (or give-a-crap? whatever).
+I like the idea of the [LOGAF scale](https://blog.danlew.net/2020/04/15/the-logaf-scale/), where we can easily indicate if suggestions to PR review or other feedback is given in 'levels of give-a-f*ck'. But to avoid the somewhat crude (tho somewhat endearing) naming scheme, let's refer to this measure as the LOGAC ("low-gak") scale - "levels of give-a-care" (or give-a-crap? whatever).
 
 Either way, here are my PR templates for my scale. They each link back here. I'm going to start using these in PR's to indicate my LOGAC on PR comments.
 
