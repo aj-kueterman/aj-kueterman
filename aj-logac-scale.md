@@ -33,3 +33,8 @@ Do not self-resolve these comments in GitHub. Make changes / leave comments and 
 ```
 [🔴 high](https://github.com/aj-kueterman/aj-kueterman/blob/main/aj-logaf-scale.md#high)
 ```
+
+# Other PR Review documentation
+
+- [Code review best practices](https://deepsource.com/blog/code-review-best-practices)
+- [AJ's PR-opening Checklist](https://confluence.kroger.com/confluence/display/DRT/PR+Best+Practices)
