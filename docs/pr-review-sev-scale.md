@@ -9,7 +9,7 @@ Based on Dan Lew's [LOGAF Scale](https://blog.danlew.net/2020/04/15/the-logaf-sc
 
 ---
 
-## Low
+## [Low](https://aj-kueterman.github.io/aj-kueterman/logaf#low)
 
 A this level I usually just noticed something that had a slight code smell. I may spot things that are tangential to your change or just things I 'noticed' when reviewing. 
 
@@ -19,7 +19,7 @@ A this level I usually just noticed something that had a slight code smell. I ma
 [🟢 low](https://aj-kueterman.github.io/aj-kueterman/logaf#low)
 ```
 
-## Medium
+## [Medium](https://aj-kueterman.github.io/aj-kueterman/logaf#medium)
 
 At this level I feel changes should be made but can be convinced with a good reason, a follow up story/documentation/etc. that captures the changes in future work, or clarification. 
 
@@ -29,7 +29,7 @@ At this level I feel changes should be made but can be convinced with a good rea
 [🟡 medium](https://aj-kueterman.github.io/aj-kueterman/logaf#medium)
 ```
 
-## High
+## [High](https://aj-kueterman.github.io/aj-kueterman/logaf#high)
 
 At this level I feel like changes need to be made before this PR is merged. In exceptional cases, follow up stories & documentation may resolve these concerns, but they would usually require a conversation with me or some other SME.
 
