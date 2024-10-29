@@ -1,6 +1,9 @@
-layout: page
-title: "PR Comment Severity Scale"
+---
+layout: default
+title: PR Comment Severity Scale
+description: My custom 'LOGAF' scale for PR's.
 permalink: /logaf
+---
 
 # PR Comment Severity Scale
 
