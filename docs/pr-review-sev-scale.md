@@ -1,3 +1,7 @@
+layout: page
+title: "PR Comment Severity Scale"
+permalink: /logaf
+
 # PR Comment Severity Scale
 
 Based on Dan Lew's [LOGAF Scale](https://blog.danlew.net/2020/04/15/the-logaf-scale/), this is a quick reference for my PR comments.
