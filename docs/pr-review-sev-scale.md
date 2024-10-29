@@ -16,7 +16,7 @@ A this level I usually just noticed something that had a slight code smell. I ma
 
 ## Medium
 
-At this level I feel changes should be made but can be convinced with a good reason, a follow up story/documentation/etc. that captures the changes in future work or clarification. 
+At this level I feel changes should be made but can be convinced with a good reason, a follow up story/documentation/etc. that captures the changes in future work, or clarification. 
 
 **You can self-resolve these comments in GitHub with a comment.**
 
