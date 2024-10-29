@@ -18,7 +18,7 @@ A this level I usually just noticed something that had a slight code smell. I ma
 **You can self-resolve these comments in GitHub without a comment.**
 
 ```
-[🟢 low](https://github.com/aj-kueterman/aj-kueterman/blob/main/docs/pr-review-sev-scale.md#low)
+[🟢 low](https://aj-kueterman.github.io/aj-kueterman/logaf#low)
 ```
 
 ## Medium
@@ -28,7 +28,7 @@ At this level I feel changes should be made but can be convinced with a good rea
 **You can self-resolve these comments in GitHub with a comment.**
 
 ```
-[🟡 medium](https://github.com/aj-kueterman/aj-kueterman/blob/main/docs/pr-review-sev-scale.md#medium)
+[🟡 medium](https://aj-kueterman.github.io/aj-kueterman/logaf#medium)
 ```
 
 ## High
@@ -38,7 +38,7 @@ At this level I feel like changes need to be made before this PR is merged. In e
 **Do not self-resolve these comments in GitHub. Make changes / leave comments and allow me to resolve them before merging.**
 
 ```
-[🔴 high](https://github.com/aj-kueterman/aj-kueterman/blob/main/docs/pr-review-sev-scale.md#high)
+[🔴 high](https://aj-kueterman.github.io/aj-kueterman/logaf#high)
 ```
 
 ---
