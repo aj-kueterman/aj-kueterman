@@ -12,8 +12,8 @@ If you ever get this error in stage/prod:
 Follow these steps to debug and let AJ know.
 
 1. Document if you just changed environments or not
-1. Check to see if you got an `MSAL_Exception` from Telemeter in Logcat
-1. Attach the debugger, and put a breakpoint on these two places and click the retry button (and/or close out the fragment and retry Sign In)
-    1. [In the `else` block of the `initialiseMSAlApplication` function](https://github.com/krogertechnology/kroger-android/blob/2baae1574700c7945c61d758ddf877171a88190c/DigitalCoupons/features/authentication/src/main/java/com/kroger/mobile/authentication/ui/B2CAuthenticationLoadingFragment.kt#L97)
-    1. [In the `MSALResult.Failure` block of `signInOrCreateAccount`](https://github.com/krogertechnology/kroger-android/blob/2baae1574700c7945c61d758ddf877171a88190c/DigitalCoupons/features/authentication/src/main/java/com/kroger/mobile/authentication/ui/B2CAuthenticationLoadingFragment.kt#L110)
+1. Check to see if you got an `MSAL_Exception` or a `B2C_Auth_Exception` from Telemeter in Logcat, and document the details of the log
+1. Try again using the 'Please try again' link, and document the behavior/logs
+1. If that doesn't work, try killing the app and restarting, and document the behavior/logs
+1. If that doesn't work, try re-installing the app, and document the behavior/logs
 1. Inform AJ (aj.kueterman@kroger.com)
